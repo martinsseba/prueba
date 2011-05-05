@@ -1,0 +1,18 @@
+Estimado Grupo:
+
+Como les comente el parcial va ser nuevos requerimientos
+Me van a tener que entregar: 
+
+La carpeta del Proyecto
+La export de la base de datos que genera un archivo .sql
+Un pdf con el DER
+Un diagrama de Clases a mano o por soft
+Un archivo texto con los resultados de consola
+
+Todo esto lo guardan en una carpeta 
+APELLIDO NOMBRE 1mer PARCIAL OO2
+
+La comprimen en zip or rar  y lo entregan (porque queda archivado en la Universidad) 
++ el enunciado del PARCIAL que es donde hago la corrección.
+
+saludos, Alejandra
