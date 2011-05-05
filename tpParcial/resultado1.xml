@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
 
+MODIFICADO PARA SVN
+-->
 <ListaArticulosVendidos>
 	<FacturaNumero>000001</FacturaNumero>
 	<ListaArticulos>
